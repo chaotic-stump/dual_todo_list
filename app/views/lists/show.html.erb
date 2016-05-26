@@ -1,0 +1,8 @@
+<h1>Lists Info</h1>
+<br />
+<h3>List name: <%= @list.name %></h3>
+<h3>List description: <%= @list.description %></h3>
+<%= link_to 'All Lists', lists_path %>
+<%= link_to 'Edit List', edit_list_path(@list) %>
+
+<%= link_to 'Delete List', list_path(@list), method: :delete %>
