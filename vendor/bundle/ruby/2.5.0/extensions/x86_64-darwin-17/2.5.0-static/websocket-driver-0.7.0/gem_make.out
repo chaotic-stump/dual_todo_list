@@ -1,0 +1,15 @@
+current directory: /Users/ShawsRP/Documents/Web/Tutorials/Resources/DPL/dpl/w3/assignment/D3dual_todo_list/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+/Users/ShawsRP/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20180709-33944-fmtzat.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ShawsRP/Documents/Web/Tutorials/Resources/DPL/dpl/w3/assignment/D3dual_todo_list/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/ShawsRP/Documents/Web/Tutorials/Resources/DPL/dpl/w3/assignment/D3dual_todo_list/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/ShawsRP/Documents/Web/Tutorials/Resources/DPL/dpl/w3/assignment/D3dual_todo_list/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20180709-33944-1djp0xp
