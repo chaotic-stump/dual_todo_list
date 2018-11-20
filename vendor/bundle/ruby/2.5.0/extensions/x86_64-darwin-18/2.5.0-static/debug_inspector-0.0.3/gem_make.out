@@ -1,0 +1,15 @@
+current directory: /Users/ShawsRP/Documents/Web/Tutorials/Resources/DPL/dpl/w3/assignment/D3dual_todo_list/vendor/bundle/ruby/2.5.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+/Users/ShawsRP/.asdf/installs/ruby/2.5.0/bin/ruby -r ./siteconf20181119-12780-1eqqkdy.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ShawsRP/Documents/Web/Tutorials/Resources/DPL/dpl/w3/assignment/D3dual_todo_list/vendor/bundle/ruby/2.5.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /Users/ShawsRP/Documents/Web/Tutorials/Resources/DPL/dpl/w3/assignment/D3dual_todo_list/vendor/bundle/ruby/2.5.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.bundle
+
+current directory: /Users/ShawsRP/Documents/Web/Tutorials/Resources/DPL/dpl/w3/assignment/D3dual_todo_list/vendor/bundle/ruby/2.5.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 debug_inspector.bundle ./.gem.20181119-12780-19qf97n

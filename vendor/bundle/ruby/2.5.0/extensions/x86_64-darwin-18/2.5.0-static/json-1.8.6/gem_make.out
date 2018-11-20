@@ -1,0 +1,13 @@
+current directory: /Users/ShawsRP/Documents/Web/Tutorials/Resources/DPL/dpl/w3/assignment/D3dual_todo_list/vendor/bundle/ruby/2.5.0/gems/json-1.8.6/ext/json
+/Users/ShawsRP/.asdf/installs/ruby/2.5.0/bin/ruby -r ./siteconf20181119-12780-1v2hyrg.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ShawsRP/Documents/Web/Tutorials/Resources/DPL/dpl/w3/assignment/D3dual_todo_list/vendor/bundle/ruby/2.5.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/ShawsRP/Documents/Web/Tutorials/Resources/DPL/dpl/w3/assignment/D3dual_todo_list/vendor/bundle/ruby/2.5.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/ShawsRP/Documents/Web/Tutorials/Resources/DPL/dpl/w3/assignment/D3dual_todo_list/vendor/bundle/ruby/2.5.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install

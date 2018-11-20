@@ -1,0 +1,19 @@
+current directory: /Users/ShawsRP/Documents/Web/Tutorials/Resources/DPL/dpl/w3/assignment/D3dual_todo_list/vendor/bundle/ruby/2.5.0/gems/byebug-10.0.2/ext/byebug
+/Users/ShawsRP/.asdf/installs/ruby/2.5.0/bin/ruby -r ./siteconf20181119-12780-1e47tyq.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ShawsRP/Documents/Web/Tutorials/Resources/DPL/dpl/w3/assignment/D3dual_todo_list/vendor/bundle/ruby/2.5.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/ShawsRP/Documents/Web/Tutorials/Resources/DPL/dpl/w3/assignment/D3dual_todo_list/vendor/bundle/ruby/2.5.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/ShawsRP/Documents/Web/Tutorials/Resources/DPL/dpl/w3/assignment/D3dual_todo_list/vendor/bundle/ruby/2.5.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 byebug.bundle ./.gem.20181119-12780-33dsu3/byebug
